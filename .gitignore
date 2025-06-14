@@ -1,0 +1,7 @@
+
+# Jekyll entries
+_site/
+.sass-cache/
+.jekyll-cache/
+*.gem
+.DS_Store
