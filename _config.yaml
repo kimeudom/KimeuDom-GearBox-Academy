@@ -5,6 +5,9 @@ theme: just-the-docs
 url: "" 
 baseurl: ""
 
+source: _pages
+destination: ../docs
+
 color_scheme: "dark"
 
 collections:
