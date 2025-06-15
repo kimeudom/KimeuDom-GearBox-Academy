@@ -1,0 +1,25 @@
+title: Gearbox Embedded Systems Training
+description: Self documenting embedded systems webpage
+theme: just-the-docs
+
+url: "" 
+baseurl: ""
+
+color_scheme: "dark"
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+just_the_docs:
+  search_enabled: true
+  aux_links:
+    "GitHub":
+      - "https://github.com/kimeudom/KimeuDom-GearBox-Academy"
+
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      layout: default
