@@ -3,9 +3,6 @@ description: Self documenting embedded systems webpage
 theme: just-the-docs
 color_scheme: dark
 
-source: _pages 
-destination: docs
-
 collections:
   pages:
     output: true
